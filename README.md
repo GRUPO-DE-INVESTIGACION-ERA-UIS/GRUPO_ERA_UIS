@@ -5,12 +5,12 @@
 
 <br clear="right"/>
 
-Bienvenido al repositorio oficial del **Grupo ERA** de la Universidad Industrial de Santander[cite: 22]. [cite_start]Este espacio es el núcleo de desarrollo donde documentamos nuestro ecosistema tecnológico, proyectos de hardware/software, investigación y el impacto social generado por nuestro equipo[cite: 23].
+Bienvenido al repositorio oficial del **Grupo ERA** de la Universidad Industrial de Santander. Este espacio es el núcleo de desarrollo donde documentamos nuestro ecosistema tecnológico, proyectos de hardware/software, investigación y el impacto social generado por nuestro equipo.
 ---
 
 ## 🎯 ¿A qué nos dedicamos?
 
-El Grupo ERA de la UIS es un colectivo académico y de investigación enfocado en [insertar aquí el enfoque principal, por ejemplo: el desarrollo de tecnologías sostenibles, gestión ambiental, energías renovables y optimización de recursos]. 
+El Grupo ERA de la UIS es un colectivo académico y de investigación enfocado en el desarrollo de tecnologías sostenibles, gestión ambiental, energías renovables y optimización de recursos. 
 
 Nuestras principales líneas de acción son:
 * **Investigación Científica:** Desarrollo de conocimiento de vanguardia con rigor académico.
