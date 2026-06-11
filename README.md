@@ -1,12 +1,11 @@
 
-<img src="https://github.com/user-attachments/assets/2f0b0fea-db88-46e6-b58b-e94d82308d1f" alt="Logo-ERA-Blanco" align="left" width="80" style="margin-right: 15px;" />
+<img src="https://github.com/user-attachments/assets/2f0b0fea-db88-46e6-b58b-e94d82308d1f" alt="Logo-ERA-Blanco" align="right" width="80" style="margin-left: 15px;" />
 
 # Grupo ERA - Electrónica, Robótica y Automatización (UIS)
 
-<br clear="left"/>
+<br clear="right"/>
 
-Bienvenido al repositorio oficial del **Grupo ERA** de la Universidad Industrial de Santander. Este espacio es el núcleo de desarrollo donde documentamos nuestro ecosistema tecnológico, proyectos de hardware/software, investigación y el impacto social generado por nuestro equipo.
-
+[cite_start]Bienvenido al repositorio oficial del **Grupo ERA** de la Universidad Industrial de Santander[cite: 22]. [cite_start]Este espacio es el núcleo de desarrollo donde documentamos nuestro ecosistema tecnológico, proyectos de hardware/software, investigación y el impacto social generado por nuestro equipo[cite: 23].
 ---
 
 ## 🎯 ¿A qué nos dedicamos?
